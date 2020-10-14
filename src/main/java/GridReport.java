@@ -33,7 +33,7 @@ public class GridReport {
 
     public static void main(String[] args) throws IOException, SQLException, ParserConfigurationException, SAXException {
 
-        Connection connection = DbConnection.getConnection();
+        Connection connection = DbUtils.getConnection();
         Statement statement = connection.createStatement();
         StringBuilder sql;
 
@@ -126,7 +126,6 @@ public class GridReport {
             sql.append(",");
             sql.append(report.getMax_hole_size());
             sql.append(");");
-
             statement.executeUpdate(sql.toString());
         }
 
@@ -276,7 +275,6 @@ public class GridReport {
                 // the string representation of date according to the chosen pattern
                 DateFormat df = new SimpleDateFormat(pattern);
                 String dt = df.format(date);
-                System.out.println(dt);
                 report.setRequest_time(dt);
 
                 report.setService_guid((String) reportObj.get("service-guid"));
