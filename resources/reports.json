@@ -1,0 +1,3002 @@
+[
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 17,
+   "packets-requested": 13,
+   "client-guid": "14946fd5-489e-4865-8e6a-e0cb15b7d197",
+   "client-address": "200.47.19.120",
+   "request-time": 1467175919322,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 17,
+   "packets-requested": 17,
+   "client-guid": "04402d03-0952-4d42-8c1f-f2d0b1a9f375",
+   "client-address": "93.112.39.128",
+   "request-time": 1467173663381,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 2,
+   "packets-serviced": 16,
+   "packets-requested": 13,
+   "client-guid": "0762ced5-ced8-4fe6-98a3-d08297080a0a",
+   "client-address": "142.249.16.121",
+   "request-time": 1467202964948,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 18,
+   "packets-requested": 5,
+   "client-guid": "257a4a2c-5f15-4462-83dd-44cbedafae21",
+   "client-address": "208.180.58.114",
+   "request-time": 1467193708978,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 16,
+   "packets-requested": 17,
+   "client-guid": "4c8acbb4-a751-4a46-858e-7f9c470a62b9",
+   "client-address": "31.154.51.146",
+   "request-time": 1467189328910,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 5,
+   "packets-serviced": 15,
+   "packets-requested": 10,
+   "client-guid": "c44b7c04-39a7-47a3-ad41-76771a669989",
+   "client-address": "103.58.130.100",
+   "request-time": 1467158599027,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 6,
+   "packets-requested": 13,
+   "client-guid": "43c1358a-10cd-4361-9bd7-9328dfeb92fc",
+   "client-address": "95.88.54.206",
+   "request-time": 1467160477454,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 0
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 15,
+   "packets-requested": 11,
+   "client-guid": "28a801e9-84bf-4000-aadb-7e42afb665de",
+   "client-address": "229.12.241.187",
+   "request-time": 1467197242905,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 14,
+   "packets-requested": 4,
+   "client-guid": "52cd8288-bb32-4acf-9b22-f86b8c4a36c3",
+   "client-address": "23.93.24.205",
+   "request-time": 1467127404165,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 10,
+   "packets-requested": 12,
+   "client-guid": "37b28482-db5f-4e2d-a35c-1aa650137d7c",
+   "client-address": "81.231.11.150",
+   "request-time": 1467190445802,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 3,
+   "packets-requested": 4,
+   "client-guid": "74d863f8-2d10-48e6-8e58-8be9e8ada003",
+   "client-address": "43.242.245.235",
+   "request-time": 1467178977485,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 11,
+   "packets-requested": 11,
+   "client-guid": "1c4f25e0-9f6b-4b4e-baf5-1a8038022020",
+   "client-address": "86.101.113.23",
+   "request-time": 1467192897114,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 9,
+   "packets-requested": 10,
+   "client-guid": "ca7050d8-e536-4d72-84fc-b1d6d7ac72d9",
+   "client-address": "244.225.8.162",
+   "request-time": 1467138018437,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 13,
+   "packets-requested": 10,
+   "client-guid": "f917c098-6c46-4d68-bcac-840009db8f9d",
+   "client-address": "39.49.44.234",
+   "request-time": 1467186895240,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 12,
+   "packets-requested": 9,
+   "client-guid": "9e73f5dd-1ecb-45d9-9bc7-374c2681515f",
+   "client-address": "185.116.188.255",
+   "request-time": 1467136766296,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 15,
+   "packets-requested": 15,
+   "client-guid": "a1a0c559-bd0e-4e28-bfc7-6195a3a2b220",
+   "client-address": "37.33.8.205",
+   "request-time": 1467145803730,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 11,
+   "packets-requested": 10,
+   "client-guid": "e82f7767-ff00-41bb-abef-70e12318e510",
+   "client-address": "88.133.216.130",
+   "request-time": 1467134383037,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 15,
+   "packets-requested": 8,
+   "client-guid": "b6dffb35-7467-40df-8212-61a36b4376ea",
+   "client-address": "63.153.117.246",
+   "request-time": 1467160954787,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 16,
+   "packets-requested": 6,
+   "client-guid": "955881e2-b0d7-4516-bf16-fb9013e3449b",
+   "client-address": "93.59.151.20",
+   "request-time": 1467142839748,
+   "service-guid": "d7d6b499-509a-4c08-b95e-68d9662f25ca",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 7,
+   "packets-requested": 2,
+   "client-guid": "4bb04bf5-8ab9-4f3c-994b-422aabfe42ab",
+   "client-address": "253.6.226.181",
+   "request-time": 1467183634844,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 14,
+   "packets-requested": 13,
+   "client-guid": "3041de52-b442-40f0-8cf4-b01fdbc03ed9",
+   "client-address": "136.98.140.70",
+   "request-time": 1467161483434,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 11,
+   "packets-requested": 6,
+   "client-guid": "14946fd5-489e-4865-8e6a-e0cb15b7d197",
+   "client-address": "200.47.19.120",
+   "request-time": 1467141270692,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 8,
+   "packets-requested": 1,
+   "client-guid": "e2a058c2-2a39-46fc-b18f-4b852cce97a9",
+   "client-address": "82.216.136.129",
+   "request-time": 1467182752937,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 15,
+   "packets-requested": 15,
+   "client-guid": "548fdcfe-1f63-49c8-b764-e5fd4010d4f6",
+   "client-address": "63.238.70.233",
+   "request-time": 1467138575605,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 12,
+   "packets-requested": 17,
+   "client-guid": "257a4a2c-5f15-4462-83dd-44cbedafae21",
+   "client-address": "208.180.58.114",
+   "request-time": 1467118419910,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 7,
+   "packets-serviced": 16,
+   "packets-requested": 11,
+   "client-guid": "49efca01-479f-4511-b306-816b6dd04f4c",
+   "client-address": "25.131.244.136",
+   "request-time": 1467129685077,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 9
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 13,
+   "packets-requested": 15,
+   "client-guid": "4c8acbb4-a751-4a46-858e-7f9c470a62b9",
+   "client-address": "31.154.51.146",
+   "request-time": 1467147330055,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 16,
+   "packets-requested": 10,
+   "client-guid": "21c52f96-fdf5-41e5-b329-d23704a040ae",
+   "client-address": "40.184.14.168",
+   "request-time": 1467189613049,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 8,
+   "packets-requested": 14,
+   "client-guid": "c025f3b3-9d38-43cf-96b3-765c8d09376f",
+   "client-address": "158.72.216.85",
+   "request-time": 1467119687213,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 8,
+   "packets-requested": 13,
+   "client-guid": "2a9b0c73-79d9-45e4-a61a-26a30a2b8021",
+   "client-address": "12.56.177.0",
+   "request-time": 1467137039821,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 3,
+   "packets-serviced": 14,
+   "packets-requested": 3,
+   "client-guid": "9cc06af5-a6db-41ba-85a4-3fa82af24813",
+   "client-address": "138.244.231.43",
+   "request-time": 1467153404357,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 2,
+   "packets-serviced": 10,
+   "packets-requested": 9,
+   "client-guid": "76d37b10-fd7e-4ba2-96d4-7e3c59a31781",
+   "client-address": "249.109.127.83",
+   "request-time": 1467198199371,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 2,
+   "packets-serviced": 9,
+   "packets-requested": 10,
+   "client-guid": "0d9f8e59-0f8d-4771-8208-f185b6b879dd",
+   "client-address": "233.190.111.21",
+   "request-time": 1467162260048,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 19,
+   "packets-serviced": 16,
+   "packets-requested": 10,
+   "client-guid": "b7b3cc60-eeb6-4020-9597-88cb9000391d",
+   "client-address": "30.23.170.207",
+   "request-time": 1467130558680,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 11,
+   "packets-requested": 8,
+   "client-guid": "28a801e9-84bf-4000-aadb-7e42afb665de",
+   "client-address": "229.12.241.187",
+   "request-time": 1467154361942,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 18,
+   "packets-requested": 5,
+   "client-guid": "5f63507b-3c0a-43ee-9857-92a95c21fac6",
+   "client-address": "230.238.223.240",
+   "request-time": 1467155591578,
+   "service-guid": "d7d6b499-509a-4c08-b95e-68d9662f25ca",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 1,
+   "packets-requested": 11,
+   "client-guid": "942008de-150c-4e22-93de-6186c8a02dd8",
+   "client-address": "27.199.65.16",
+   "request-time": 1467123276116,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 10,
+   "packets-requested": 6,
+   "client-guid": "089f4e70-10c5-4de2-9d2b-1c66246e8820",
+   "client-address": "138.72.13.187",
+   "request-time": 1467124521438,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 13,
+   "packets-requested": 4,
+   "client-guid": "50a81755-dd6c-44b4-92f4-c4d0f76980cb",
+   "client-address": "177.207.105.164",
+   "request-time": 1467131685471,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 2,
+   "packets-serviced": 14,
+   "packets-requested": 16,
+   "client-guid": "260c2121-098e-4371-b0bb-e8ca42bbc729",
+   "client-address": "31.58.132.34",
+   "request-time": 1467170082135,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 15,
+   "packets-requested": 7,
+   "client-guid": "70e496c2-e9a0-45b5-8ee7-f34849b9026a",
+   "client-address": "91.254.170.48",
+   "request-time": 1467118382820,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 12,
+   "packets-requested": 5,
+   "client-guid": "5eed724f-e8fc-45e7-9fa0-3860d0b13943",
+   "client-address": "136.86.149.164",
+   "request-time": 1467171523787,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 13,
+   "packets-requested": 11,
+   "client-guid": "ccc56e05-5997-499b-b77e-0e4fbf55644f",
+   "client-address": "146.161.147.185",
+   "request-time": 1467174833752,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 6,
+   "packets-requested": 11,
+   "client-guid": "57a45f07-6c24-4410-acda-92c4eb78caba",
+   "client-address": "49.48.216.203",
+   "request-time": 1467167939376,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 5,
+   "packets-requested": 13,
+   "client-guid": "4b752ef3-4474-432a-89a7-51b62e096597",
+   "client-address": "113.155.202.57",
+   "request-time": 1467188913694,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 16,
+   "packets-requested": 17,
+   "client-guid": "5f63507b-3c0a-43ee-9857-92a95c21fac6",
+   "client-address": "230.238.223.240",
+   "request-time": 1467147632945,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 3,
+   "packets-requested": 8,
+   "client-guid": "5f63507b-3c0a-43ee-9857-92a95c21fac6",
+   "client-address": "230.238.223.240",
+   "request-time": 1467195912086,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 13,
+   "packets-requested": 6,
+   "client-guid": "0762ced5-ced8-4fe6-98a3-d08297080a0a",
+   "client-address": "142.249.16.121",
+   "request-time": 1467173568125,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 17,
+   "packets-requested": 9,
+   "client-guid": "ce055c42-e25c-4f78-894f-6d75bd28f16f",
+   "client-address": "128.84.243.131",
+   "request-time": 1467118454995,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 6,
+   "packets-requested": 10,
+   "client-guid": "39d2597a-7dce-462e-a995-470974e48665",
+   "client-address": "25.63.4.79",
+   "request-time": 1467128349524,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 14,
+   "packets-requested": 10,
+   "client-guid": "c86b45cc-eaeb-423f-9bc9-aa7d3beaf48c",
+   "client-address": "226.221.86.16",
+   "request-time": 1467190194329,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 4,
+   "packets-requested": 14,
+   "client-guid": "aff6ed59-3d7a-4c52-981b-086f2e19aba7",
+   "client-address": "90.161.125.211",
+   "request-time": 1467182408523,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 8,
+   "packets-requested": 13,
+   "client-guid": "b180b463-9548-4603-a226-b333328ece30",
+   "client-address": "108.224.4.236",
+   "request-time": 1467152531350,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 4,
+   "packets-requested": 11,
+   "client-guid": "430fbb17-9624-4b40-b483-61a3f3ac2816",
+   "client-address": "193.186.89.202",
+   "request-time": 1467138463300,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 19,
+   "packets-serviced": 17,
+   "packets-requested": 14,
+   "client-guid": "ce055c42-e25c-4f78-894f-6d75bd28f16f",
+   "client-address": "128.84.243.131",
+   "request-time": 1467176021294,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 13,
+   "packets-requested": 10,
+   "client-guid": "3faf2136-0687-4827-a3b7-e0dc316572a8",
+   "client-address": "69.51.77.90",
+   "request-time": 1467142499650,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 3,
+   "packets-serviced": 16,
+   "packets-requested": 18,
+   "client-guid": "7eceda16-d625-4e53-8111-bdec470b3cbc",
+   "client-address": "70.237.218.233",
+   "request-time": 1467141149093,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 4,
+   "packets-serviced": 10,
+   "packets-requested": 11,
+   "client-guid": "5eed724f-e8fc-45e7-9fa0-3860d0b13943",
+   "client-address": "136.86.149.164",
+   "request-time": 1467139188714,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 10,
+   "packets-requested": 6,
+   "client-guid": "257a4a2c-5f15-4462-83dd-44cbedafae21",
+   "client-address": "208.180.58.114",
+   "request-time": 1467183372490,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 8,
+   "packets-requested": 10,
+   "client-guid": "b84befd4-1024-4c4e-8fcd-55d29fc49373",
+   "client-address": "207.77.90.74",
+   "request-time": 1467170080306,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 5,
+   "packets-requested": 10,
+   "client-guid": "c35cfb21-b742-4031-8fc9-6d11acd1e544",
+   "client-address": "61.253.251.21",
+   "request-time": 1467202779945,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 15,
+   "packets-requested": 14,
+   "client-guid": "52cd8288-bb32-4acf-9b22-f86b8c4a36c3",
+   "client-address": "23.93.24.205",
+   "request-time": 1467153480347,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 15,
+   "packets-requested": 18,
+   "client-guid": "3041de52-b442-40f0-8cf4-b01fdbc03ed9",
+   "client-address": "136.98.140.70",
+   "request-time": 1467126157363,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 8,
+   "packets-requested": 5,
+   "client-guid": "24ad91a9-a175-4e22-b39e-be06c7df094b",
+   "client-address": "86.187.242.163",
+   "request-time": 1467142691606,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 13,
+   "packets-requested": 14,
+   "client-guid": "14946fd5-489e-4865-8e6a-e0cb15b7d197",
+   "client-address": "200.47.19.120",
+   "request-time": 1467149919291,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 3,
+   "packets-serviced": 11,
+   "packets-requested": 8,
+   "client-guid": "3faf2136-0687-4827-a3b7-e0dc316572a8",
+   "client-address": "69.51.77.90",
+   "request-time": 1467125055465,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 12,
+   "packets-requested": 10,
+   "client-guid": "942008de-150c-4e22-93de-6186c8a02dd8",
+   "client-address": "27.199.65.16",
+   "request-time": 1467187152496,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 3,
+   "packets-serviced": 9,
+   "packets-requested": 16,
+   "client-guid": "5f63507b-3c0a-43ee-9857-92a95c21fac6",
+   "client-address": "230.238.223.240",
+   "request-time": 1467155085862,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 13,
+   "packets-requested": 10,
+   "client-guid": "89bc418b-1250-465e-9243-e7a34dd8ee29",
+   "client-address": "85.167.64.69",
+   "request-time": 1467173769153,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 10,
+   "packets-requested": 16,
+   "client-guid": "5f63507b-3c0a-43ee-9857-92a95c21fac6",
+   "client-address": "230.238.223.240",
+   "request-time": 1467178543678,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 11,
+   "packets-requested": 14,
+   "client-guid": "3214ae5c-d832-4661-a29e-37348183ad1b",
+   "client-address": "210.21.80.97",
+   "request-time": 1467120770161,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 5,
+   "packets-serviced": 7,
+   "packets-requested": 13,
+   "client-guid": "76d37b10-fd7e-4ba2-96d4-7e3c59a31781",
+   "client-address": "249.109.127.83",
+   "request-time": 1467165587008,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 5,
+   "packets-requested": 9,
+   "client-guid": "cb137077-4b45-416d-a37b-b1ec08600665",
+   "client-address": "141.15.200.222",
+   "request-time": 1467151335148,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 3,
+   "packets-serviced": 10,
+   "packets-requested": 2,
+   "client-guid": "24ad91a9-a175-4e22-b39e-be06c7df094b",
+   "client-address": "86.187.242.163",
+   "request-time": 1467138808468,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 7,
+   "packets-requested": 7,
+   "client-guid": "0f1f1656-644e-4183-9808-a188e4aa5522",
+   "client-address": "184.149.149.146",
+   "request-time": 1467192454545,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 8,
+   "packets-requested": 14,
+   "client-guid": "59edf0f3-14eb-49e3-911c-d59327219539",
+   "client-address": "130.159.212.150",
+   "request-time": 1467188749957,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 9
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 7,
+   "packets-requested": 1,
+   "client-guid": "0cb4d1ba-eb44-4c10-8d6c-fd34f7e70694",
+   "client-address": "223.37.193.115",
+   "request-time": 1467181039806,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 16,
+   "packets-requested": 11,
+   "client-guid": "8f2a0995-20d7-42ee-96ca-174140b63b27",
+   "client-address": "106.122.7.55",
+   "request-time": 1467121342973,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 7,
+   "packets-serviced": 11,
+   "packets-requested": 16,
+   "client-guid": "96623c46-8c2d-4787-928f-10012ce4ef44",
+   "client-address": "152.187.124.84",
+   "request-time": 1467129279484,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 14,
+   "packets-requested": 8,
+   "client-guid": "cb137077-4b45-416d-a37b-b1ec08600665",
+   "client-address": "141.15.200.222",
+   "request-time": 1467185203770,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 3,
+   "packets-serviced": 10,
+   "packets-requested": 11,
+   "client-guid": "4bb04bf5-8ab9-4f3c-994b-422aabfe42ab",
+   "client-address": "253.6.226.181",
+   "request-time": 1467146990392,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 3,
+   "packets-serviced": 0,
+   "packets-requested": 6,
+   "client-guid": "0cb4d1ba-eb44-4c10-8d6c-fd34f7e70694",
+   "client-address": "223.37.193.115",
+   "request-time": 1467189979048,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 7,
+   "packets-requested": 14,
+   "client-guid": "4e51ec8d-d395-47b5-b5da-986e1d43bf26",
+   "client-address": "35.98.203.198",
+   "request-time": 1467203296270,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 9
+ },
+ {
+   "max-hole-size": 4,
+   "packets-serviced": 14,
+   "packets-requested": 17,
+   "client-guid": "0abf10c0-7105-4401-b9ea-a6317561cbba",
+   "client-address": "43.121.230.128",
+   "request-time": 1467125600655,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 15,
+   "packets-requested": 5,
+   "client-guid": "2f0c3b72-fc47-4482-9310-06b598982f01",
+   "client-address": "89.40.139.228",
+   "request-time": 1467155201261,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 6,
+   "packets-requested": 15,
+   "client-guid": "9e73f5dd-1ecb-45d9-9bc7-374c2681515f",
+   "client-address": "185.116.188.255",
+   "request-time": 1467132272278,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 10,
+   "packets-requested": 11,
+   "client-guid": "8f2a0995-20d7-42ee-96ca-174140b63b27",
+   "client-address": "106.122.7.55",
+   "request-time": 1467155573403,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 11,
+   "packets-requested": 9,
+   "client-guid": "f917c098-6c46-4d68-bcac-840009db8f9d",
+   "client-address": "39.49.44.234",
+   "request-time": 1467123164892,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 11,
+   "packets-requested": 9,
+   "client-guid": "b32b0764-0c11-4878-acc4-1f013d8a6774",
+   "client-address": "95.239.24.252",
+   "request-time": 1467155173121,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 10,
+   "packets-requested": 14,
+   "client-guid": "1c4f25e0-9f6b-4b4e-baf5-1a8038022020",
+   "client-address": "86.101.113.23",
+   "request-time": 1467130579482,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 11,
+   "packets-requested": 13,
+   "client-guid": "cb137077-4b45-416d-a37b-b1ec08600665",
+   "client-address": "141.15.200.222",
+   "request-time": 1467139517077,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 14,
+   "packets-requested": 12,
+   "client-guid": "548fdcfe-1f63-49c8-b764-e5fd4010d4f6",
+   "client-address": "63.238.70.233",
+   "request-time": 1467121151731,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 13,
+   "packets-requested": 11,
+   "client-guid": "74d863f8-2d10-48e6-8e58-8be9e8ada003",
+   "client-address": "43.242.245.235",
+   "request-time": 1467190822568,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 7,
+   "packets-serviced": 13,
+   "packets-requested": 0,
+   "client-guid": "e2a058c2-2a39-46fc-b18f-4b852cce97a9",
+   "client-address": "82.216.136.129",
+   "request-time": 1467162134254,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 18,
+   "packets-requested": 8,
+   "client-guid": "0abf10c0-7105-4401-b9ea-a6317561cbba",
+   "client-address": "43.121.230.128",
+   "request-time": 1467128137630,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 7,
+   "packets-serviced": 14,
+   "packets-requested": 9,
+   "client-guid": "4c8acbb4-a751-4a46-858e-7f9c470a62b9",
+   "client-address": "31.154.51.146",
+   "request-time": 1467192576464,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 3,
+   "packets-requested": 10,
+   "client-guid": "ca7050d8-e536-4d72-84fc-b1d6d7ac72d9",
+   "client-address": "244.225.8.162",
+   "request-time": 1467118127022,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 2,
+   "packets-requested": 9,
+   "client-guid": "74d863f8-2d10-48e6-8e58-8be9e8ada003",
+   "client-address": "43.242.245.235",
+   "request-time": 1467154279885,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 3,
+   "packets-requested": 12,
+   "client-guid": "3faf2136-0687-4827-a3b7-e0dc316572a8",
+   "client-address": "69.51.77.90",
+   "request-time": 1467140327296,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 16,
+   "packets-requested": 5,
+   "client-guid": "70e496c2-e9a0-45b5-8ee7-f34849b9026a",
+   "client-address": "91.254.170.48",
+   "request-time": 1467118602982,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 8,
+   "packets-requested": 15,
+   "client-guid": "9e73f5dd-1ecb-45d9-9bc7-374c2681515f",
+   "client-address": "185.116.188.255",
+   "request-time": 1467128788183,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 5,
+   "packets-serviced": 15,
+   "packets-requested": 13,
+   "client-guid": "9e73f5dd-1ecb-45d9-9bc7-374c2681515f",
+   "client-address": "185.116.188.255",
+   "request-time": 1467152744912,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 10,
+   "packets-requested": 9,
+   "client-guid": "37b28482-db5f-4e2d-a35c-1aa650137d7c",
+   "client-address": "81.231.11.150",
+   "request-time": 1467118210207,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 9
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 14,
+   "packets-requested": 15,
+   "client-guid": "e82f7767-ff00-41bb-abef-70e12318e510",
+   "client-address": "88.133.216.130",
+   "request-time": 1467154931151,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 16,
+   "packets-requested": 12,
+   "client-guid": "2f0c3b72-fc47-4482-9310-06b598982f01",
+   "client-address": "89.40.139.228",
+   "request-time": 1467175704757,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 1,
+   "packets-serviced": 11,
+   "packets-requested": 7,
+   "client-guid": "83603508-8942-410f-bd10-e8b3f06f5656",
+   "client-address": "83.216.39.225",
+   "request-time": 1467191299144,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 5,
+   "packets-requested": 13,
+   "client-guid": "b180b463-9548-4603-a226-b333328ece30",
+   "client-address": "108.224.4.236",
+   "request-time": 1467202715979,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 5,
+   "packets-serviced": 15,
+   "packets-requested": 16,
+   "client-guid": "24ad91a9-a175-4e22-b39e-be06c7df094b",
+   "client-address": "86.187.242.163",
+   "request-time": 1467124765062,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 2,
+   "packets-requested": 13,
+   "client-guid": "b6dffb35-7467-40df-8212-61a36b4376ea",
+   "client-address": "63.153.117.246",
+   "request-time": 1467120390513,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 9,
+   "packets-requested": 2,
+   "client-guid": "83603508-8942-410f-bd10-e8b3f06f5656",
+   "client-address": "83.216.39.225",
+   "request-time": 1467143640171,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 13,
+   "packets-requested": 15,
+   "client-guid": "70e496c2-e9a0-45b5-8ee7-f34849b9026a",
+   "client-address": "91.254.170.48",
+   "request-time": 1467123952502,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 9,
+   "packets-requested": 18,
+   "client-guid": "49efca01-479f-4511-b306-816b6dd04f4c",
+   "client-address": "25.131.244.136",
+   "request-time": 1467130718003,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 8,
+   "packets-requested": 14,
+   "client-guid": "1109e335-39d4-4497-8854-bf3937c5a547",
+   "client-address": "231.102.234.148",
+   "request-time": 1467131377618,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 7,
+   "packets-requested": 14,
+   "client-guid": "24ad91a9-a175-4e22-b39e-be06c7df094b",
+   "client-address": "86.187.242.163",
+   "request-time": 1467185446642,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 3,
+   "packets-serviced": 7,
+   "packets-requested": 17,
+   "client-guid": "21c52f96-fdf5-41e5-b329-d23704a040ae",
+   "client-address": "40.184.14.168",
+   "request-time": 1467148581615,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 15,
+   "packets-requested": 13,
+   "client-guid": "548fdcfe-1f63-49c8-b764-e5fd4010d4f6",
+   "client-address": "63.238.70.233",
+   "request-time": 1467134281262,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 9,
+   "packets-requested": 11,
+   "client-guid": "e2a058c2-2a39-46fc-b18f-4b852cce97a9",
+   "client-address": "82.216.136.129",
+   "request-time": 1467136713278,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 5,
+   "packets-requested": 14,
+   "client-guid": "b84befd4-1024-4c4e-8fcd-55d29fc49373",
+   "client-address": "207.77.90.74",
+   "request-time": 1467197789870,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 9
+ },
+ {
+   "max-hole-size": 7,
+   "packets-serviced": 12,
+   "packets-requested": 14,
+   "client-guid": "260c2121-098e-4371-b0bb-e8ca42bbc729",
+   "client-address": "31.58.132.34",
+   "request-time": 1467127561208,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 15,
+   "packets-requested": 8,
+   "client-guid": "089f4e70-10c5-4de2-9d2b-1c66246e8820",
+   "client-address": "138.72.13.187",
+   "request-time": 1467118567117,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 3,
+   "packets-requested": 5,
+   "client-guid": "0cb4d1ba-eb44-4c10-8d6c-fd34f7e70694",
+   "client-address": "223.37.193.115",
+   "request-time": 1467144912195,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 13,
+   "packets-requested": 7,
+   "client-guid": "89bc418b-1250-465e-9243-e7a34dd8ee29",
+   "client-address": "85.167.64.69",
+   "request-time": 1467182082748,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 11,
+   "packets-requested": 11,
+   "client-guid": "21c52f96-fdf5-41e5-b329-d23704a040ae",
+   "client-address": "40.184.14.168",
+   "request-time": 1467161317532,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 9
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 13,
+   "packets-requested": 15,
+   "client-guid": "b7b3cc60-eeb6-4020-9597-88cb9000391d",
+   "client-address": "30.23.170.207",
+   "request-time": 1467162172142,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 12,
+   "packets-requested": 4,
+   "client-guid": "0cb4d1ba-eb44-4c10-8d6c-fd34f7e70694",
+   "client-address": "223.37.193.115",
+   "request-time": 1467179759462,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 14,
+   "packets-requested": 18,
+   "client-guid": "e82f7767-ff00-41bb-abef-70e12318e510",
+   "client-address": "88.133.216.130",
+   "request-time": 1467117435462,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 5,
+   "packets-requested": 4,
+   "client-guid": "a625f52a-7a79-4986-8741-d5866ffab46e",
+   "client-address": "11.168.249.153",
+   "request-time": 1467138414846,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 11,
+   "packets-requested": 4,
+   "client-guid": "04402d03-0952-4d42-8c1f-f2d0b1a9f375",
+   "client-address": "93.112.39.128",
+   "request-time": 1467161826892,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 12,
+   "packets-requested": 18,
+   "client-guid": "1109e335-39d4-4497-8854-bf3937c5a547",
+   "client-address": "231.102.234.148",
+   "request-time": 1467159413950,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 12,
+   "packets-requested": 10,
+   "client-guid": "85c0881e-bbc5-4b8e-9f44-3811c5b5d925",
+   "client-address": "160.71.252.91",
+   "request-time": 1467163644288,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 2,
+   "packets-requested": 11,
+   "client-guid": "13a4fb10-42c2-41bd-b601-5ce5abb088ea",
+   "client-address": "115.224.209.39",
+   "request-time": 1467146208920,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 17,
+   "packets-requested": 15,
+   "client-guid": "28a801e9-84bf-4000-aadb-7e42afb665de",
+   "client-address": "229.12.241.187",
+   "request-time": 1467192225380,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 16,
+   "packets-requested": 16,
+   "client-guid": "4b8091f9-747c-4964-a53e-a47a021a04eb",
+   "client-address": "206.41.141.227",
+   "request-time": 1467159710170,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 14,
+   "packets-requested": 18,
+   "client-guid": "04402d03-0952-4d42-8c1f-f2d0b1a9f375",
+   "client-address": "93.112.39.128",
+   "request-time": 1467174625437,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 16,
+   "packets-requested": 10,
+   "client-guid": "28a801e9-84bf-4000-aadb-7e42afb665de",
+   "client-address": "229.12.241.187",
+   "request-time": 1467193532009,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 13,
+   "packets-requested": 8,
+   "client-guid": "0abf10c0-7105-4401-b9ea-a6317561cbba",
+   "client-address": "43.121.230.128",
+   "request-time": 1467181014955,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 16,
+   "packets-requested": 16,
+   "client-guid": "ed00630a-f2c1-4be1-886a-365423abceac",
+   "client-address": "223.133.76.30",
+   "request-time": 1467194102204,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 15,
+   "packets-requested": 16,
+   "client-guid": "9cc06af5-a6db-41ba-85a4-3fa82af24813",
+   "client-address": "138.244.231.43",
+   "request-time": 1467199122856,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 12,
+   "packets-requested": 12,
+   "client-guid": "2a9b0c73-79d9-45e4-a61a-26a30a2b8021",
+   "client-address": "12.56.177.0",
+   "request-time": 1467135718029,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 9,
+   "packets-requested": 4,
+   "client-guid": "0f1f1656-644e-4183-9808-a188e4aa5522",
+   "client-address": "184.149.149.146",
+   "request-time": 1467155911277,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 9,
+   "packets-requested": 12,
+   "client-guid": "7eceda16-d625-4e53-8111-bdec470b3cbc",
+   "client-address": "70.237.218.233",
+   "request-time": 1467144796643,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 13,
+   "packets-requested": 11,
+   "client-guid": "0f1f1656-644e-4183-9808-a188e4aa5522",
+   "client-address": "184.149.149.146",
+   "request-time": 1467190886336,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 5,
+   "packets-serviced": 8,
+   "packets-requested": 16,
+   "client-guid": "2f0c3b72-fc47-4482-9310-06b598982f01",
+   "client-address": "89.40.139.228",
+   "request-time": 1467163550069,
+   "service-guid": "d7d6b499-509a-4c08-b95e-68d9662f25ca",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 9,
+   "packets-requested": 5,
+   "client-guid": "aff6ed59-3d7a-4c52-981b-086f2e19aba7",
+   "client-address": "90.161.125.211",
+   "request-time": 1467132545793,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 11,
+   "packets-requested": 13,
+   "client-guid": "597ff90e-b63f-4db4-b1b5-46544a855fa6",
+   "client-address": "19.151.6.43",
+   "request-time": 1467162064170,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 14,
+   "packets-requested": 15,
+   "client-guid": "39d2597a-7dce-462e-a995-470974e48665",
+   "client-address": "25.63.4.79",
+   "request-time": 1467125298623,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 14,
+   "packets-requested": 7,
+   "client-guid": "e3b6e54c-5092-4a88-8400-02c2ce5af565",
+   "client-address": "197.67.162.91",
+   "request-time": 1467176855041,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 10,
+   "packets-requested": 12,
+   "client-guid": "85c0881e-bbc5-4b8e-9f44-3811c5b5d925",
+   "client-address": "160.71.252.91",
+   "request-time": 1467130439618,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 19,
+   "packets-requested": 6,
+   "client-guid": "430fbb17-9624-4b40-b483-61a3f3ac2816",
+   "client-address": "193.186.89.202",
+   "request-time": 1467175630361,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 15,
+   "packets-requested": 18,
+   "client-guid": "b84befd4-1024-4c4e-8fcd-55d29fc49373",
+   "client-address": "207.77.90.74",
+   "request-time": 1467162300435,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 11,
+   "packets-requested": 12,
+   "client-guid": "5eed724f-e8fc-45e7-9fa0-3860d0b13943",
+   "client-address": "136.86.149.164",
+   "request-time": 1467136932223,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 10,
+   "packets-requested": 9,
+   "client-guid": "7ea02222-31bb-46f2-a27b-0270113c8352",
+   "client-address": "180.220.0.235",
+   "request-time": 1467192260410,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 12,
+   "packets-requested": 7,
+   "client-guid": "ed00630a-f2c1-4be1-886a-365423abceac",
+   "client-address": "223.133.76.30",
+   "request-time": 1467186170428,
+   "service-guid": "d7d6b499-509a-4c08-b95e-68d9662f25ca",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 15,
+   "packets-requested": 13,
+   "client-guid": "74d863f8-2d10-48e6-8e58-8be9e8ada003",
+   "client-address": "43.242.245.235",
+   "request-time": 1467140610439,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 13,
+   "packets-requested": 16,
+   "client-guid": "a82b1820-8498-41e9-88e6-9a03c37f7e57",
+   "client-address": "156.151.161.28",
+   "request-time": 1467120526374,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 15,
+   "packets-requested": 7,
+   "client-guid": "1109e335-39d4-4497-8854-bf3937c5a547",
+   "client-address": "231.102.234.148",
+   "request-time": 1467158498669,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 13,
+   "packets-requested": 19,
+   "client-guid": "e3b6e54c-5092-4a88-8400-02c2ce5af565",
+   "client-address": "197.67.162.91",
+   "request-time": 1467127403732,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 0
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 15,
+   "packets-requested": 15,
+   "client-guid": "9cc06af5-a6db-41ba-85a4-3fa82af24813",
+   "client-address": "138.244.231.43",
+   "request-time": 1467177266782,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 13,
+   "packets-requested": 8,
+   "client-guid": "37b28482-db5f-4e2d-a35c-1aa650137d7c",
+   "client-address": "81.231.11.150",
+   "request-time": 1467151245910,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 14,
+   "packets-requested": 16,
+   "client-guid": "8f2a0995-20d7-42ee-96ca-174140b63b27",
+   "client-address": "106.122.7.55",
+   "request-time": 1467151978964,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 6,
+   "packets-requested": 15,
+   "client-guid": "28a801e9-84bf-4000-aadb-7e42afb665de",
+   "client-address": "229.12.241.187",
+   "request-time": 1467177919276,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 7,
+   "packets-serviced": 8,
+   "packets-requested": 10,
+   "client-guid": "7ea02222-31bb-46f2-a27b-0270113c8352",
+   "client-address": "180.220.0.235",
+   "request-time": 1467148657463,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 8,
+   "packets-requested": 7,
+   "client-guid": "0d9f8e59-0f8d-4771-8208-f185b6b879dd",
+   "client-address": "233.190.111.21",
+   "request-time": 1467142120305,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 15,
+   "packets-requested": 16,
+   "client-guid": "9e73f5dd-1ecb-45d9-9bc7-374c2681515f",
+   "client-address": "185.116.188.255",
+   "request-time": 1467146206187,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 15,
+   "packets-requested": 9,
+   "client-guid": "3c73d3fa-88e0-4aa6-8615-f0695b106600",
+   "client-address": "159.29.57.124",
+   "request-time": 1467172853036,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 8,
+   "packets-requested": 15,
+   "client-guid": "4bb04bf5-8ab9-4f3c-994b-422aabfe42ab",
+   "client-address": "253.6.226.181",
+   "request-time": 1467142512767,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 7,
+   "packets-serviced": 12,
+   "packets-requested": 9,
+   "client-guid": "4b8091f9-747c-4964-a53e-a47a021a04eb",
+   "client-address": "206.41.141.227",
+   "request-time": 1467117599407,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 8,
+   "packets-requested": 14,
+   "client-guid": "ce055c42-e25c-4f78-894f-6d75bd28f16f",
+   "client-address": "128.84.243.131",
+   "request-time": 1467148407174,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 12,
+   "packets-requested": 3,
+   "client-guid": "0cb4d1ba-eb44-4c10-8d6c-fd34f7e70694",
+   "client-address": "223.37.193.115",
+   "request-time": 1467183676797,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 11,
+   "packets-requested": 10,
+   "client-guid": "279e0c25-3f89-4c74-8d36-dfcb99c64a0f",
+   "client-address": "44.122.139.20",
+   "request-time": 1467155587480,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 3,
+   "packets-serviced": 8,
+   "packets-requested": 13,
+   "client-guid": "a1a0c559-bd0e-4e28-bfc7-6195a3a2b220",
+   "client-address": "37.33.8.205",
+   "request-time": 1467201024383,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 8,
+   "packets-requested": 10,
+   "client-guid": "c7bf8c3d-79d7-4c2d-9935-e59374dbac74",
+   "client-address": "2.123.184.83",
+   "request-time": 1467169647837,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 7,
+   "packets-serviced": 12,
+   "packets-requested": 13,
+   "client-guid": "a82b1820-8498-41e9-88e6-9a03c37f7e57",
+   "client-address": "156.151.161.28",
+   "request-time": 1467173261509,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 6,
+   "packets-requested": 12,
+   "client-guid": "1c4f25e0-9f6b-4b4e-baf5-1a8038022020",
+   "client-address": "86.101.113.23",
+   "request-time": 1467202392472,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 18,
+   "packets-requested": 1,
+   "client-guid": "3b3044e0-f4d8-412a-987b-3ba55e389c19",
+   "client-address": "204.169.169.140",
+   "request-time": 1467143733273,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 14,
+   "packets-requested": 18,
+   "client-guid": "57a45f07-6c24-4410-acda-92c4eb78caba",
+   "client-address": "49.48.216.203",
+   "request-time": 1467179479504,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 15,
+   "packets-requested": 9,
+   "client-guid": "37b28482-db5f-4e2d-a35c-1aa650137d7c",
+   "client-address": "81.231.11.150",
+   "request-time": 1467180440470,
+   "service-guid": "d7d6b499-509a-4c08-b95e-68d9662f25ca",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 12,
+   "packets-requested": 13,
+   "client-guid": "9e73f5dd-1ecb-45d9-9bc7-374c2681515f",
+   "client-address": "185.116.188.255",
+   "request-time": 1467149515769,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 7,
+   "packets-serviced": 14,
+   "packets-requested": 16,
+   "client-guid": "57a45f07-6c24-4410-acda-92c4eb78caba",
+   "client-address": "49.48.216.203",
+   "request-time": 1467177482534,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 3,
+   "packets-serviced": 14,
+   "packets-requested": 13,
+   "client-guid": "4c8acbb4-a751-4a46-858e-7f9c470a62b9",
+   "client-address": "31.154.51.146",
+   "request-time": 1467147171146,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 8,
+   "packets-requested": 16,
+   "client-guid": "37b28482-db5f-4e2d-a35c-1aa650137d7c",
+   "client-address": "81.231.11.150",
+   "request-time": 1467140820044,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 11,
+   "packets-requested": 14,
+   "client-guid": "512d6db1-31e0-44ac-9a4d-c06429915320",
+   "client-address": "24.128.90.89",
+   "request-time": 1467136923797,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 13,
+   "packets-requested": 12,
+   "client-guid": "aff6ed59-3d7a-4c52-981b-086f2e19aba7",
+   "client-address": "90.161.125.211",
+   "request-time": 1467160438421,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 7,
+   "packets-requested": 19,
+   "client-guid": "c35cfb21-b742-4031-8fc9-6d11acd1e544",
+   "client-address": "61.253.251.21",
+   "request-time": 1467188167867,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 8,
+   "packets-requested": 11,
+   "client-guid": "942008de-150c-4e22-93de-6186c8a02dd8",
+   "client-address": "27.199.65.16",
+   "request-time": 1467171290166,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 16,
+   "packets-requested": 14,
+   "client-guid": "0cb4d1ba-eb44-4c10-8d6c-fd34f7e70694",
+   "client-address": "223.37.193.115",
+   "request-time": 1467174272479,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 10,
+   "packets-requested": 15,
+   "client-guid": "7ea02222-31bb-46f2-a27b-0270113c8352",
+   "client-address": "180.220.0.235",
+   "request-time": 1467185523587,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 0
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 13,
+   "packets-requested": 11,
+   "client-guid": "43c1358a-10cd-4361-9bd7-9328dfeb92fc",
+   "client-address": "95.88.54.206",
+   "request-time": 1467134773707,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 11,
+   "packets-requested": 10,
+   "client-guid": "257a4a2c-5f15-4462-83dd-44cbedafae21",
+   "client-address": "208.180.58.114",
+   "request-time": 1467124062618,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 15,
+   "packets-requested": 12,
+   "client-guid": "21c52f96-fdf5-41e5-b329-d23704a040ae",
+   "client-address": "40.184.14.168",
+   "request-time": 1467140567455,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 13,
+   "packets-requested": 5,
+   "client-guid": "3214ae5c-d832-4661-a29e-37348183ad1b",
+   "client-address": "210.21.80.97",
+   "request-time": 1467198976992,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 5,
+   "packets-serviced": 14,
+   "packets-requested": 14,
+   "client-guid": "b6dffb35-7467-40df-8212-61a36b4376ea",
+   "client-address": "63.153.117.246",
+   "request-time": 1467158799668,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 16,
+   "packets-requested": 9,
+   "client-guid": "260c2121-098e-4371-b0bb-e8ca42bbc729",
+   "client-address": "31.58.132.34",
+   "request-time": 1467197257011,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 14,
+   "packets-requested": 12,
+   "client-guid": "3b3044e0-f4d8-412a-987b-3ba55e389c19",
+   "client-address": "204.169.169.140",
+   "request-time": 1467195223043,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 9,
+   "packets-requested": 7,
+   "client-guid": "a625f52a-7a79-4986-8741-d5866ffab46e",
+   "client-address": "11.168.249.153",
+   "request-time": 1467126390701,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 1,
+   "packets-serviced": 5,
+   "packets-requested": 17,
+   "client-guid": "96623c46-8c2d-4787-928f-10012ce4ef44",
+   "client-address": "152.187.124.84",
+   "request-time": 1467157225350,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 15,
+   "packets-requested": 9,
+   "client-guid": "43c1358a-10cd-4361-9bd7-9328dfeb92fc",
+   "client-address": "95.88.54.206",
+   "request-time": 1467148831705,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 5,
+   "packets-requested": 8,
+   "client-guid": "3214ae5c-d832-4661-a29e-37348183ad1b",
+   "client-address": "210.21.80.97",
+   "request-time": 1467189147171,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 19,
+   "packets-requested": 9,
+   "client-guid": "ed00630a-f2c1-4be1-886a-365423abceac",
+   "client-address": "223.133.76.30",
+   "request-time": 1467159150100,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 2,
+   "packets-serviced": 4,
+   "packets-requested": 16,
+   "client-guid": "99a4fea8-b7f4-4311-aabb-d75839ffeb9b",
+   "client-address": "38.29.201.73",
+   "request-time": 1467197166781,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 4,
+   "packets-requested": 9,
+   "client-guid": "ffcf7310-0fa6-4680-911b-8554c5fc0b81",
+   "client-address": "88.50.80.69",
+   "request-time": 1467197134710,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 11,
+   "packets-requested": 11,
+   "client-guid": "7ea02222-31bb-46f2-a27b-0270113c8352",
+   "client-address": "180.220.0.235",
+   "request-time": 1467156058750,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 14,
+   "packets-requested": 19,
+   "client-guid": "13a4fb10-42c2-41bd-b601-5ce5abb088ea",
+   "client-address": "115.224.209.39",
+   "request-time": 1467184331442,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 13,
+   "packets-requested": 12,
+   "client-guid": "2f0c3b72-fc47-4482-9310-06b598982f01",
+   "client-address": "89.40.139.228",
+   "request-time": 1467139065044,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 19,
+   "packets-serviced": 11,
+   "packets-requested": 13,
+   "client-guid": "e82f7767-ff00-41bb-abef-70e12318e510",
+   "client-address": "88.133.216.130",
+   "request-time": 1467160819219,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 6,
+   "packets-requested": 2,
+   "client-guid": "99a4fea8-b7f4-4311-aabb-d75839ffeb9b",
+   "client-address": "38.29.201.73",
+   "request-time": 1467147644248,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 17,
+   "packets-requested": 13,
+   "client-guid": "46918f47-3785-4013-93bb-8054346346c1",
+   "client-address": "75.162.134.19",
+   "request-time": 1467176908942,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 8,
+   "packets-requested": 16,
+   "client-guid": "b84befd4-1024-4c4e-8fcd-55d29fc49373",
+   "client-address": "207.77.90.74",
+   "request-time": 1467141081099,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 0,
+   "packets-requested": 13,
+   "client-guid": "99a4fea8-b7f4-4311-aabb-d75839ffeb9b",
+   "client-address": "38.29.201.73",
+   "request-time": 1467171658775,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 11,
+   "packets-requested": 12,
+   "client-guid": "ca7050d8-e536-4d72-84fc-b1d6d7ac72d9",
+   "client-address": "244.225.8.162",
+   "request-time": 1467128094715,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 4,
+   "packets-serviced": 1,
+   "packets-requested": 4,
+   "client-guid": "99a4fea8-b7f4-4311-aabb-d75839ffeb9b",
+   "client-address": "38.29.201.73",
+   "request-time": 1467119421941,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 14,
+   "packets-requested": 11,
+   "client-guid": "955881e2-b0d7-4516-bf16-fb9013e3449b",
+   "client-address": "93.59.151.20",
+   "request-time": 1467197717023,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 15,
+   "packets-requested": 18,
+   "client-guid": "3c73d3fa-88e0-4aa6-8615-f0695b106600",
+   "client-address": "159.29.57.124",
+   "request-time": 1467177464308,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 7,
+   "packets-serviced": 18,
+   "packets-requested": 8,
+   "client-guid": "b84befd4-1024-4c4e-8fcd-55d29fc49373",
+   "client-address": "207.77.90.74",
+   "request-time": 1467121135680,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 9,
+   "packets-requested": 17,
+   "client-guid": "257a4a2c-5f15-4462-83dd-44cbedafae21",
+   "client-address": "208.180.58.114",
+   "request-time": 1467130296405,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 18,
+   "packets-requested": 5,
+   "client-guid": "37b28482-db5f-4e2d-a35c-1aa650137d7c",
+   "client-address": "81.231.11.150",
+   "request-time": 1467138470459,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 15,
+   "packets-requested": 13,
+   "client-guid": "597ff90e-b63f-4db4-b1b5-46544a855fa6",
+   "client-address": "19.151.6.43",
+   "request-time": 1467159724603,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 12,
+   "packets-requested": 12,
+   "client-guid": "c7bf8c3d-79d7-4c2d-9935-e59374dbac74",
+   "client-address": "2.123.184.83",
+   "request-time": 1467159946984,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 11,
+   "packets-requested": 6,
+   "client-guid": "3b3044e0-f4d8-412a-987b-3ba55e389c19",
+   "client-address": "204.169.169.140",
+   "request-time": 1467153479465,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 16,
+   "packets-requested": 12,
+   "client-guid": "52cd8288-bb32-4acf-9b22-f86b8c4a36c3",
+   "client-address": "23.93.24.205",
+   "request-time": 1467161746265,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 14,
+   "packets-requested": 12,
+   "client-guid": "ca7050d8-e536-4d72-84fc-b1d6d7ac72d9",
+   "client-address": "244.225.8.162",
+   "request-time": 1467148124260,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 14,
+   "packets-requested": 5,
+   "client-guid": "4cffdc59-795d-4c58-a55a-49e54bfc1362",
+   "client-address": "8.253.114.215",
+   "request-time": 1467147304165,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 15,
+   "packets-requested": 7,
+   "client-guid": "ad4139d3-41b5-4569-8cde-3d54f96a38a3",
+   "client-address": "253.14.16.17",
+   "request-time": 1467167145556,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 4,
+   "packets-serviced": 5,
+   "packets-requested": 12,
+   "client-guid": "c025f3b3-9d38-43cf-96b3-765c8d09376f",
+   "client-address": "158.72.216.85",
+   "request-time": 1467171912241,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 14,
+   "packets-requested": 13,
+   "client-guid": "3b3044e0-f4d8-412a-987b-3ba55e389c19",
+   "client-address": "204.169.169.140",
+   "request-time": 1467145760175,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 1,
+   "packets-serviced": 5,
+   "packets-requested": 4,
+   "client-guid": "3c73d3fa-88e0-4aa6-8615-f0695b106600",
+   "client-address": "159.29.57.124",
+   "request-time": 1467190343812,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 8,
+   "packets-requested": 6,
+   "client-guid": "cadde77b-3d84-4fff-9dc9-3b99324a5498",
+   "client-address": "150.90.101.28",
+   "request-time": 1467144955683,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 15,
+   "packets-requested": 12,
+   "client-guid": "2a9b0c73-79d9-45e4-a61a-26a30a2b8021",
+   "client-address": "12.56.177.0",
+   "request-time": 1467142669558,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 13,
+   "packets-requested": 15,
+   "client-guid": "89bc418b-1250-465e-9243-e7a34dd8ee29",
+   "client-address": "85.167.64.69",
+   "request-time": 1467124766589,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 9,
+   "packets-requested": 4,
+   "client-guid": "5f63507b-3c0a-43ee-9857-92a95c21fac6",
+   "client-address": "230.238.223.240",
+   "request-time": 1467187401767,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 5,
+   "packets-serviced": 5,
+   "packets-requested": 9,
+   "client-guid": "99a4fea8-b7f4-4311-aabb-d75839ffeb9b",
+   "client-address": "38.29.201.73",
+   "request-time": 1467156097131,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 15,
+   "packets-requested": 17,
+   "client-guid": "e2a058c2-2a39-46fc-b18f-4b852cce97a9",
+   "client-address": "82.216.136.129",
+   "request-time": 1467191486102,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 13,
+   "packets-requested": 13,
+   "client-guid": "aff6ed59-3d7a-4c52-981b-086f2e19aba7",
+   "client-address": "90.161.125.211",
+   "request-time": 1467179796587,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 8,
+   "packets-requested": 13,
+   "client-guid": "e3b6e54c-5092-4a88-8400-02c2ce5af565",
+   "client-address": "197.67.162.91",
+   "request-time": 1467153328182,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 16,
+   "packets-requested": 17,
+   "client-guid": "f917c098-6c46-4d68-bcac-840009db8f9d",
+   "client-address": "39.49.44.234",
+   "request-time": 1467120419268,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 16,
+   "packets-requested": 13,
+   "client-guid": "1109e335-39d4-4497-8854-bf3937c5a547",
+   "client-address": "231.102.234.148",
+   "request-time": 1467121502836,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 15,
+   "packets-requested": 0,
+   "client-guid": "5eed724f-e8fc-45e7-9fa0-3860d0b13943",
+   "client-address": "136.86.149.164",
+   "request-time": 1467117232396,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 13,
+   "packets-requested": 17,
+   "client-guid": "14946fd5-489e-4865-8e6a-e0cb15b7d197",
+   "client-address": "200.47.19.120",
+   "request-time": 1467186460002,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 1,
+   "packets-serviced": 14,
+   "packets-requested": 6,
+   "client-guid": "b6dffb35-7467-40df-8212-61a36b4376ea",
+   "client-address": "63.153.117.246",
+   "request-time": 1467190170052,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 17,
+   "packets-requested": 14,
+   "client-guid": "66cb7ef4-523e-4ee2-9ff4-57f28cd1a2bb",
+   "client-address": "130.50.197.69",
+   "request-time": 1467143793559,
+   "service-guid": "d7d6b499-509a-4c08-b95e-68d9662f25ca",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 12,
+   "packets-requested": 4,
+   "client-guid": "14946fd5-489e-4865-8e6a-e0cb15b7d197",
+   "client-address": "200.47.19.120",
+   "request-time": 1467118337561,
+   "service-guid": "dc81cacc-af4f-4b0a-8a10-34e106ffdf23",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 8,
+   "packets-requested": 15,
+   "client-guid": "ce055c42-e25c-4f78-894f-6d75bd28f16f",
+   "client-address": "128.84.243.131",
+   "request-time": 1467194263032,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 14,
+   "packets-requested": 4,
+   "client-guid": "99a4fea8-b7f4-4311-aabb-d75839ffeb9b",
+   "client-address": "38.29.201.73",
+   "request-time": 1467150753901,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 4,
+   "packets-requested": 3,
+   "client-guid": "37b28482-db5f-4e2d-a35c-1aa650137d7c",
+   "client-address": "81.231.11.150",
+   "request-time": 1467133668370,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 13,
+   "packets-requested": 18,
+   "client-guid": "512d6db1-31e0-44ac-9a4d-c06429915320",
+   "client-address": "24.128.90.89",
+   "request-time": 1467137407416,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 15,
+   "packets-requested": 11,
+   "client-guid": "0f1f1656-644e-4183-9808-a188e4aa5522",
+   "client-address": "184.149.149.146",
+   "request-time": 1467154606117,
+   "service-guid": "d7d6b499-509a-4c08-b95e-68d9662f25ca",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 13,
+   "packets-requested": 11,
+   "client-guid": "ca7050d8-e536-4d72-84fc-b1d6d7ac72d9",
+   "client-address": "244.225.8.162",
+   "request-time": 1467145950531,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 16,
+   "packets-requested": 14,
+   "client-guid": "c025f3b3-9d38-43cf-96b3-765c8d09376f",
+   "client-address": "158.72.216.85",
+   "request-time": 1467142678832,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 11,
+   "packets-requested": 15,
+   "client-guid": "512d6db1-31e0-44ac-9a4d-c06429915320",
+   "client-address": "24.128.90.89",
+   "request-time": 1467159219277,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 18,
+   "packets-requested": 13,
+   "client-guid": "430fbb17-9624-4b40-b483-61a3f3ac2816",
+   "client-address": "193.186.89.202",
+   "request-time": 1467134490813,
+   "service-guid": "1efced85-b0e3-464b-ac63-472d35909c05",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 5,
+   "packets-requested": 10,
+   "client-guid": "7ea02222-31bb-46f2-a27b-0270113c8352",
+   "client-address": "180.220.0.235",
+   "request-time": 1467150430690,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 5,
+   "packets-serviced": 12,
+   "packets-requested": 10,
+   "client-guid": "ccc56e05-5997-499b-b77e-0e4fbf55644f",
+   "client-address": "146.161.147.185",
+   "request-time": 1467188022919,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 15,
+   "packets-requested": 13,
+   "client-guid": "ca7050d8-e536-4d72-84fc-b1d6d7ac72d9",
+   "client-address": "244.225.8.162",
+   "request-time": 1467121274020,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 10,
+   "packets-requested": 13,
+   "client-guid": "b32b0764-0c11-4878-acc4-1f013d8a6774",
+   "client-address": "95.239.24.252",
+   "request-time": 1467159149368,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 12,
+   "packets-requested": 7,
+   "client-guid": "279e0c25-3f89-4c74-8d36-dfcb99c64a0f",
+   "client-address": "44.122.139.20",
+   "request-time": 1467121210451,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 9,
+   "packets-requested": 4,
+   "client-guid": "c9f34d28-28ca-4959-9422-9d80d5a4814a",
+   "client-address": "194.153.116.244",
+   "request-time": 1467125052162,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 9
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 14,
+   "packets-requested": 14,
+   "client-guid": "9ad0ab0d-59cb-4764-baa7-821219fb3970",
+   "client-address": "45.236.171.185",
+   "request-time": 1467141899524,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 12,
+   "packets-requested": 9,
+   "client-guid": "66cb7ef4-523e-4ee2-9ff4-57f28cd1a2bb",
+   "client-address": "130.50.197.69",
+   "request-time": 1467162447688,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 16,
+   "packets-requested": 11,
+   "client-guid": "1109e335-39d4-4497-8854-bf3937c5a547",
+   "client-address": "231.102.234.148",
+   "request-time": 1467124123542,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 4,
+   "packets-serviced": 11,
+   "packets-requested": 7,
+   "client-guid": "b7b3cc60-eeb6-4020-9597-88cb9000391d",
+   "client-address": "30.23.170.207",
+   "request-time": 1467202025793,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 13,
+   "packets-requested": 15,
+   "client-guid": "f4394d85-6c7d-4294-aa7e-30ae656cc901",
+   "client-address": "53.192.52.176",
+   "request-time": 1467135538238,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 17,
+   "packets-requested": 13,
+   "client-guid": "0cb4d1ba-eb44-4c10-8d6c-fd34f7e70694",
+   "client-address": "223.37.193.115",
+   "request-time": 1467125127986,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 3
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 11,
+   "packets-requested": 2,
+   "client-guid": "4e51ec8d-d395-47b5-b5da-986e1d43bf26",
+   "client-address": "35.98.203.198",
+   "request-time": 1467194571503,
+   "service-guid": "d7d6b499-509a-4c08-b95e-68d9662f25ca",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 11,
+   "packets-requested": 10,
+   "client-guid": "c86b45cc-eaeb-423f-9bc9-aa7d3beaf48c",
+   "client-address": "226.221.86.16",
+   "request-time": 1467152530063,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 3,
+   "packets-requested": 11,
+   "client-guid": "ed00630a-f2c1-4be1-886a-365423abceac",
+   "client-address": "223.133.76.30",
+   "request-time": 1467179106285,
+   "service-guid": "1664d39d-45f1-4939-87e2-b7221e30d157",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 0,
+   "packets-requested": 14,
+   "client-guid": "b7b3cc60-eeb6-4020-9597-88cb9000391d",
+   "client-address": "30.23.170.207",
+   "request-time": 1467147570177,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 18,
+   "packets-serviced": 11,
+   "packets-requested": 11,
+   "client-guid": "ad4139d3-41b5-4569-8cde-3d54f96a38a3",
+   "client-address": "253.14.16.17",
+   "request-time": 1467144628825,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 10,
+   "packets-requested": 4,
+   "client-guid": "7ea02222-31bb-46f2-a27b-0270113c8352",
+   "client-address": "180.220.0.235",
+   "request-time": 1467124892189,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 13,
+   "packets-requested": 19,
+   "client-guid": "f917c098-6c46-4d68-bcac-840009db8f9d",
+   "client-address": "39.49.44.234",
+   "request-time": 1467162632147,
+   "service-guid": "90e5b65b-4f12-4bb2-9554-3f5969f4d78b",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 18,
+   "packets-requested": 16,
+   "client-guid": "c9f34d28-28ca-4959-9422-9d80d5a4814a",
+   "client-address": "194.153.116.244",
+   "request-time": 1467125075091,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 17,
+   "packets-requested": 8,
+   "client-guid": "f4394d85-6c7d-4294-aa7e-30ae656cc901",
+   "client-address": "53.192.52.176",
+   "request-time": 1467121463585,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 16,
+   "packets-requested": 8,
+   "client-guid": "f917c098-6c46-4d68-bcac-840009db8f9d",
+   "client-address": "39.49.44.234",
+   "request-time": 1467194904413,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 10,
+   "packets-requested": 5,
+   "client-guid": "512d6db1-31e0-44ac-9a4d-c06429915320",
+   "client-address": "24.128.90.89",
+   "request-time": 1467199572836,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 1,
+   "packets-serviced": 15,
+   "packets-requested": 8,
+   "client-guid": "c44b7c04-39a7-47a3-ad41-76771a669989",
+   "client-address": "103.58.130.100",
+   "request-time": 1467145139865,
+   "service-guid": "d7d6b499-509a-4c08-b95e-68d9662f25ca",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 16,
+   "packets-serviced": 6,
+   "packets-requested": 2,
+   "client-guid": "0f1f1656-644e-4183-9808-a188e4aa5522",
+   "client-address": "184.149.149.146",
+   "request-time": 1467159255224,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 12,
+   "packets-requested": 17,
+   "client-guid": "c756d625-bdc7-40c0-869d-a97b45c4ebaa",
+   "client-address": "95.125.180.55",
+   "request-time": 1467130579888,
+   "service-guid": "586b3947-c63c-4054-a437-d3f8a6836bcf",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 15,
+   "packets-requested": 18,
+   "client-guid": "76d37b10-fd7e-4ba2-96d4-7e3c59a31781",
+   "client-address": "249.109.127.83",
+   "request-time": 1467146782536,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 16,
+   "packets-requested": 7,
+   "client-guid": "089f4e70-10c5-4de2-9d2b-1c66246e8820",
+   "client-address": "138.72.13.187",
+   "request-time": 1467202513975,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 15,
+   "packets-requested": 10,
+   "client-guid": "ad4139d3-41b5-4569-8cde-3d54f96a38a3",
+   "client-address": "253.14.16.17",
+   "request-time": 1467119011302,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 14,
+   "packets-requested": 13,
+   "client-guid": "1109e335-39d4-4497-8854-bf3937c5a547",
+   "client-address": "231.102.234.148",
+   "request-time": 1467141306117,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 18,
+   "packets-requested": 13,
+   "client-guid": "50a81755-dd6c-44b4-92f4-c4d0f76980cb",
+   "client-address": "177.207.105.164",
+   "request-time": 1467158411571,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 8
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 16,
+   "packets-requested": 9,
+   "client-guid": "0762ced5-ced8-4fe6-98a3-d08297080a0a",
+   "client-address": "142.249.16.121",
+   "request-time": 1467137804334,
+   "service-guid": "0ee908d7-d767-4da5-9cbe-fc78e9c6a192",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 14,
+   "packets-serviced": 11,
+   "packets-requested": 11,
+   "client-guid": "548fdcfe-1f63-49c8-b764-e5fd4010d4f6",
+   "client-address": "63.238.70.233",
+   "request-time": 1467143074145,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 18,
+   "packets-requested": 15,
+   "client-guid": "4e51ec8d-d395-47b5-b5da-986e1d43bf26",
+   "client-address": "35.98.203.198",
+   "request-time": 1467193520739,
+   "service-guid": "fbce0713-676d-4dc9-a33b-25ff937c1ae3",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 13,
+   "packets-serviced": 14,
+   "packets-requested": 8,
+   "client-guid": "37b28482-db5f-4e2d-a35c-1aa650137d7c",
+   "client-address": "81.231.11.150",
+   "request-time": 1467157772431,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 4
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 10,
+   "packets-requested": 11,
+   "client-guid": "74d863f8-2d10-48e6-8e58-8be9e8ada003",
+   "client-address": "43.242.245.235",
+   "request-time": 1467181907056,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 9,
+   "packets-requested": 6,
+   "client-guid": "1109e335-39d4-4497-8854-bf3937c5a547",
+   "client-address": "231.102.234.148",
+   "request-time": 1467202619366,
+   "service-guid": "7d619a45-2b4d-4a54-9e85-6913c9545e34",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 12,
+   "packets-serviced": 4,
+   "packets-requested": 13,
+   "client-guid": "5eed724f-e8fc-45e7-9fa0-3860d0b13943",
+   "client-address": "136.86.149.164",
+   "request-time": 1467121942613,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 5,
+   "packets-serviced": 14,
+   "packets-requested": 17,
+   "client-guid": "24ad91a9-a175-4e22-b39e-be06c7df094b",
+   "client-address": "86.187.242.163",
+   "request-time": 1467140694536,
+   "service-guid": "5d35c640-9cf3-43ec-ae1a-5feebed26a37",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 16,
+   "packets-requested": 13,
+   "client-guid": "4c8acbb4-a751-4a46-858e-7f9c470a62b9",
+   "client-address": "31.154.51.146",
+   "request-time": 1467142323633,
+   "service-guid": "4ab70dbe-f5e7-4688-aa5c-2ae75faf6c03",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 17,
+   "packets-serviced": 15,
+   "packets-requested": 14,
+   "client-guid": "f4394d85-6c7d-4294-aa7e-30ae656cc901",
+   "client-address": "53.192.52.176",
+   "request-time": 1467183280227,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 9
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 3,
+   "packets-requested": 12,
+   "client-guid": "ccc56e05-5997-499b-b77e-0e4fbf55644f",
+   "client-address": "146.161.147.185",
+   "request-time": 1467202875360,
+   "service-guid": "60b84364-645b-444c-90ed-879d893f7920",
+   "retries-request": 6
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 13,
+   "packets-requested": 10,
+   "client-guid": "46918f47-3785-4013-93bb-8054346346c1",
+   "client-address": "75.162.134.19",
+   "request-time": 1467201331177,
+   "service-guid": "94f93cba-de8c-4fb6-a03c-d52c10f81247",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 9,
+   "packets-serviced": 0,
+   "packets-requested": 7,
+   "client-guid": "22e465f8-b529-43b3-9052-328b20573a5d",
+   "client-address": "249.240.92.97",
+   "request-time": 1467132435930,
+   "service-guid": "b8cf6fd8-06e2-4e5b-8ed6-6efc8e0ecda3",
+   "retries-request": 2
+ },
+ {
+   "max-hole-size": 11,
+   "packets-serviced": 8,
+   "packets-requested": 15,
+   "client-guid": "484f29cc-7965-48cb-b29e-122097626161",
+   "client-address": "110.48.230.68",
+   "request-time": 1467147106055,
+   "service-guid": "4cb309f6-8c9a-4f61-8544-6b458e42f04c",
+   "retries-request": 5
+ },
+ {
+   "max-hole-size": 1,
+   "packets-serviced": 9,
+   "packets-requested": 14,
+   "client-guid": "4bb04bf5-8ab9-4f3c-994b-422aabfe42ab",
+   "client-address": "253.6.226.181",
+   "request-time": 1467173386400,
+   "service-guid": "4a949998-0e79-4ec1-9894-11360712fc45",
+   "retries-request": 7
+ },
+ {
+   "max-hole-size": 10,
+   "packets-serviced": 14,
+   "packets-requested": 18,
+   "client-guid": "e82f7767-ff00-41bb-abef-70e12318e510",
+   "client-address": "88.133.216.130",
+   "request-time": 1467180832935,
+   "service-guid": "caaca31e-bee2-4ed3-8e72-5dab24079744",
+   "retries-request": 0
+ },
+ {
+   "max-hole-size": 15,
+   "packets-serviced": 6,
+   "packets-requested": 16,
+   "client-guid": "3c73d3fa-88e0-4aa6-8615-f0695b106600",
+   "client-address": "159.29.57.124",
+   "request-time": 1467145293812,
+   "service-guid": "e49b6654-fca2-47b2-b816-4bb7e09c6fa3",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 8,
+   "packets-serviced": 8,
+   "packets-requested": 1,
+   "client-guid": "3c73d3fa-88e0-4aa6-8615-f0695b106600",
+   "client-address": "159.29.57.124",
+   "request-time": 1467123337853,
+   "service-guid": "bed314cb-4c59-41ee-9c23-3155a80e2bc3",
+   "retries-request": 1
+ },
+ {
+   "max-hole-size": 6,
+   "packets-serviced": 14,
+   "packets-requested": 8,
+   "client-guid": "5eed724f-e8fc-45e7-9fa0-3860d0b13943",
+   "client-address": "136.86.149.164",
+   "request-time": 1467172091866,
+   "service-guid": "601152f5-477a-4ff3-afdb-8bf315341254",
+   "retries-request": 3
+ }
+]
