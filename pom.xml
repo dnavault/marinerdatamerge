@@ -8,6 +8,30 @@
     <artifactId>MarinerReport</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <!-- include below build tag to your existing pom.xml  -->
+    <build>
+        <plugins>
+            <plugin>
+
+                <!-- Building an executable jar -->
+
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.1.0</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+
+                            <!-- give full qualified name of your main class-->
+                            <mainClass>GridReport.GridReport</mainClass>
+
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
     <dependencies>
         <dependency>
             <groupId>org.xerial</groupId>
