@@ -23,7 +23,7 @@
                         <manifest>
 
                             <!-- give full qualified name of your main class-->
-                            <mainClass>GridReport.GridReport</mainClass>
+                            <mainClass>com.mariner.GridReport</mainClass>
 
                         </manifest>
                     </archive>
